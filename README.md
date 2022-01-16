@@ -4,8 +4,6 @@ My name is Luke and I run [Klinker Apps](https://github.com/klinker-apps). Check
 
 ![header](https://github.com/klinker24/klinker24/raw/master/Screen%20Shot%202020-07-13%20at%203.55.05%20PM.png)
 
-Like my work or have a question for me? Feel free to get in touch: luke@klinkerapps.com
-
 <!--
 **klinker24/klinker24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
