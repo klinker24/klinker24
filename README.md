@@ -2,6 +2,8 @@
 
 My name is Luke and I run [Klinker Apps](https://github.com/klinker-apps). Check out Pulse to get a better idea of the types of services that I love to create: https://home.pulsesms.app/overview
 
+I built and open-sourced Pulse SMS over a few year period, then sold it in 2020.
+
 ![header](https://github.com/klinker24/klinker24/raw/master/Screen%20Shot%202020-07-13%20at%203.55.05%20PM.png)
 
 <!--
