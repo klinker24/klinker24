@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Luke and I run [Klinker Apps](https://github.com/klinker-apps). Check out Pulse to get a better idea of the types of services that I love to create: https://home.pulsesms.app/overview
+My name is Luke and I used to run [Klinker Apps](https://github.com/klinker-apps). Check out Pulse SMS to get a better idea of the types of services that I have created: https://home.pulsesms.app/overview
 
 I built and open-sourced Pulse SMS over a few year period, then sold it in 2020. I also built and maintained Talon, a third party Twitter client, for around 10 years before Twitter shut off access for third party apps.
 
